@@ -1,6 +1,4 @@
 My name is Mariam, a computer engineering student who is passionate about cybersecurity
 My favourite hobby is drawing
-feature-hobby-v2
-
 I also enjoy photography.
-feature-hobby
+
